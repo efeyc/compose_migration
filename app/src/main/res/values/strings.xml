@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ComposeMigration</string>
+    <string name="make">Brand</string>
+    <string name="model">Model</string>
+    <string name="modelline">Model Line</string>
+    <string name="price">Price</string>
+    <string name="first_registration">First Registration</string>
+    <string name="mileage">Mileage</string>
+    <string name="fuel">Fuel</string>
+    <string name="seller_type">Seller</string>
+    <string name="city">City</string>
+    <string name="search_placeholder">Search</string>
+    <string name="colour">Colour</string>
+    <string name="choose_sort_type">Sort by</string>
+    <string name="price_asc">Sort by Price (Low to High)</string>
+    <string name="price_desc">Sort by Price (High to Low)</string>
+    <string name="city_asc">Sort by City (Low to High)</string>
+    <string name="city_desc">Sort by City (High to Low)</string>
+    <string name="choose_filter_type">Filter by</string>
+    <string name="filter_fuel_gasoline">Gasoline</string>
+    <string name="filter_fuel_diesel">Diesel</string>
+    <string name="filter_seller_dealer">Dealer</string>
+    <string name="filter_seller_private">Private</string>
+    <string name="filter_mileage_zero">0</string>
+    <string name="filter_mileage_until5000"><![CDATA[< 5000]]></string>
+    <string name="filter_mileage_until50000"><![CDATA[< 50000]]></string>
+    <string name="no_selection">No selection</string>
+    <string name="filter_make_audi">Audi</string>
+    <string name="filter_make_bmw">BMW</string>
+    <string name="filter_make_ford">Ford</string>
+    <string name="filter_make_porsche">Porsche</string>
+    <string name="filter_price_until5000"><![CDATA[< 5000]]></string>
+    <string name="filter_price_until10000"><![CDATA[< 10000]]></string>
+    <string name="filter_price_until25000"><![CDATA[< 25000]]></string>
+    <string name="no_results_found">No results found</string>
+</resources>

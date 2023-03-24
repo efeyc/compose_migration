@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590828957399",
+    "project_id": "composemigration",
+    "storage_bucket": "composemigration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590828957399:android:6ada49ab9cbc2b50434a92",
+        "android_client_info": {
+          "package_name": "com.eck.compose_migration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590828957399-ronfuqlpse0abbheih6uh6cqvuomh2r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDET_tOAS4QlDtXAx7wCydnXl9pVnxjEAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590828957399-ronfuqlpse0abbheih6uh6cqvuomh2r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
